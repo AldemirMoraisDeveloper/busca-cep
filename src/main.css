@@ -1,6 +1,7 @@
 .App-logo {
     height: 40vmin;
     pointer-events: none;
+    margin-top: 25%;
 }
   
 @media (prefers-reduced-motion: no-preference) {
@@ -54,7 +55,6 @@
 .facebook:active {
     color: rgba(27, 127, 27);
 }
-  
 @keyframes App-logo-spin {
   from {
       transform: rotateY(0deg);
@@ -64,6 +64,7 @@
  }
 }
 .container {
+    background-color: #0a1937;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -151,3 +152,7 @@
         width: 80%;
     }
 }
+
+
+
+  
